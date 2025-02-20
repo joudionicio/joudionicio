@@ -11,11 +11,19 @@
 Hi, I'm a beginner in the world of technology, enthusiastic to learn new things and apply them in my daily work, leveraging my strong problem-solving skills to overcome challenges and drive innovation.I'm excited to collaborate with others, share ideas, and learn from their experiences, as I believe that teamwork and open communication are essential to achieving success in the tech industry.
 
 ### Languagues and Tools
-
+-**Tools**:
+  - MVC (Model-View-Controllers)
+  - Git
+  - Docker
+  - Netlify
+  - Python Libraries
+  - Express Node js
+-Bootstrap
 - **Languages**: 
   - HTML5
   - CSS
-  - Python 
+  - Python
+  - JavaScript
 
 ### What i do?
 
