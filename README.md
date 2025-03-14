@@ -18,7 +18,7 @@ Hi, I'm a beginner in the world of technology, enthusiastic to learn new things 
   - Netlify
   - Python Libraries
   - Express Node js
-  -Bootstrap
+  - Bootstrap
 - **Languages**: 
   - HTML5
   - CSS
