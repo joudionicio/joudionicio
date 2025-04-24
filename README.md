@@ -12,15 +12,15 @@ Hi, I'm a beginner in the world of technology, enthusiastic to learn new things 
 
 ### Languagues and Tools
   - **Tools**:
-  - MVC (Model-View-Controllers)
-  - Git
-  - Docker
-  - Netlify
-  - Python Libraries
-  - Express JS
-  - Node JS
-  - Bootstrap
-  - MKdocs
+    - MVC (Model-View-Controllers)
+    - Git
+    - Docker
+    - Netlify
+    - Python Libraries
+    - Express JS
+    - Node JS
+    - Bootstrap
+    - MKdocs
 - **Languages**: 
   - HTML5
   - CSS
