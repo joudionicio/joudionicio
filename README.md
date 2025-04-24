@@ -17,7 +17,8 @@ Hi, I'm a beginner in the world of technology, enthusiastic to learn new things 
   - Docker
   - Netlify
   - Python Libraries
-  - Express Node js
+  - Express JS
+  - Node JS
   - Bootstrap
   - MKdocs
 - **Languages**: 
@@ -35,7 +36,7 @@ Hello! As a new programmer, I haven't had the opportunity to work on significant
 ### My Learning Path
 
 I´m always learning new things! This are some areas that i´m improving on or I´m looking foward to learn:
-- Exploring **C++** and all his surrounders.
+- Exploring **C++**,**C**,**.NET** and all his surrounders.
 - Learning **Java and Spring Boot** knowing IDE and creation of proyects.
 - Improving my habilities in **HTML** and **CSS** for a better web-logic and web-design.
 - Experimenting with **Bootstrap** for a better web desing.
