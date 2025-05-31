@@ -14,7 +14,6 @@ Hi, I'm a beginner in the world of technology, enthusiastic to learn new things 
   - **Tools**:
     - MVC (Model-View-Controllers)
     - Git
-    - Docker
     - Netlify
     - Python Libraries
     - Express JS
